@@ -3,5 +3,6 @@
 snowflake-snowpark-python==1.44.0
 streamlit
 requests
+time
 snowflake-ml-python==1.20.0
 
